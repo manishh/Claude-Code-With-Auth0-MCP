@@ -43,3 +43,5 @@ These are intentional problems, present to illustrate what Claude Code catches d
 - `main` branch: refactored version produced by Claude Code during the tutorial
 - Tutorial: [Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](#)
 ```
+
+---
