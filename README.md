@@ -42,7 +42,6 @@ These are intentional problems, present to illustrate what Claude Code catches d
 
 - [`master`](https://github.com/manishh/Claude-Code-With-Auth0-MCP/tree/master) branch: refactored version produced by Claude Code during the tutorial
 - Tutorial: [Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](<auth0-tutorial-link>)
-```
 
 ---
 **Author:** Manish Hatwalne
