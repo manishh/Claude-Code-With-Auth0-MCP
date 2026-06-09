@@ -1,7 +1,7 @@
 # Auth0 JWT Validation — Before (Suboptimal Setup)
 
 This branch contains the "before" version of the Flask app used in the tutorial:
-[Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](<link-to-tutorial-page>).
+[Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](<auth0-tutorial-link>).
 
 It represents a working but suboptimal Auth0 JWT validation setup — the kind that is common in real codebases but carries reliability and security risks.
 
@@ -40,8 +40,8 @@ These are intentional problems, present to illustrate what Claude Code catches d
 
 ## Related
 
-- `main` branch: refactored version produced by Claude Code during the tutorial
-- Tutorial: [Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](#)
+- [`master`](https://github.com/manishh/Claude-Code-With-Auth0-MCP/tree/master) branch: refactored version produced by Claude Code during the tutorial
+- Tutorial: [Next-Gen DevEx: Integrating Claude Code with Auth0 APIs](<auth0-tutorial-link>)
 ```
 
 ---
