@@ -45,3 +45,4 @@ These are intentional problems, present to illustrate what Claude Code catches d
 ```
 
 ---
+**Author:** Manish Hatwalne
